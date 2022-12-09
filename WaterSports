@@ -1,0 +1,31 @@
+<html>
+<body bgcolor="#b8f9be"></body>
+<head>
+<title>
+Assignment 4
+</title>
+</head>
+<link href="LangAssignment04.css" rel="stylesheet" type="text/css" />
+<h1 >
+Water Sports
+</h1>
+
+<div id="wrapper"></div>
+
+<div id="header">
+    <a href="LangAssignment04.html">Home</a> <a href="FieldSports.html">Field Sports</a>   <a href="GymSports.html">Gym Sports</a>   <a href="WaterSports.html">Water Sports</a></div>
+<body>
+<div id="leftbody">  <p> <center>Sports are a great way to be active, learn independance, and understand team work! Check out this page to learn more about various sports & get involved in the community near you!</center></p>
+
+</div>
+<div id="rightbody">
+  <p><a href="https://lincoln.ca/recreation">Town of Lincoln recreation</a><p>
+    <p><a href="https://www.stcatharines.ca/en/recreation-and-leisure/recreation-and-leisure.aspx">City of St.Catharines recreation</a><p>
+      <p><a href="https://www.welland.ca/RecCulture/index.asp">Town of Welland recreation</a><p>
+</div>
+<div id="bottom">
+</p>
+</div>
+<br>
+</body>
+</html>
