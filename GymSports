@@ -1,0 +1,31 @@
+<html>
+<body bgcolor="#b8f9be"></body>
+<head>
+<title>
+Assignment 4
+</title>
+</head>
+<h1 font color: "blue">
+<center><strong><u>Gym Sports</u></strong></center>
+</h1>
+<a href="Outdoorgreenspaces.html">Outdoor Green Spaces </a>
+<br>
+<br>
+<body>
+  <ul>
+    <u>At home practices to help achieve a greener planet</u>
+    <li>Sort recycling</li>
+    <li>Compost more</li>
+    <li>Turn all light when not in use</li>
+    <li>Turn off the A/C at night</li>
+    <li>Use reusable cups at coffee shops<li>
+  </ul>
+  <ol>Countries ranked most to least for cleanest air
+    <li>Australia</li>
+    <li>Barbados</li>
+    <li>Jordan</li>
+</ol>
+    <img src="https://college.agrilife.org/plantpathology/wp-content/uploads/sites/19/2011/05/green-earth-1898x1979-982x1024.jpg" width="450" Height="500" align="right"/>
+    <center><img src="IMG_5757.JPG" width="700" Height="500"/></center>
+
+</html>
